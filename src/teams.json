@@ -1,0 +1,194 @@
+[
+  {
+    "_id": "5efe9f255734e5573cc44de1",
+    "code": "ar",
+    "name": "Argentina",
+    "flag": "🇦🇷"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44de2",
+    "code": "au",
+    "name": "Australia",
+    "flag": "🇦🇺"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44de3",
+    "code": "be",
+    "name": "Belgium",
+    "flag": "🇧🇪"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44de4",
+    "code": "br",
+    "name": "Brazil",
+    "flag": "🇧🇷"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44de5",
+    "code": "ch",
+    "name": "Switzerland",
+    "flag": "🇨🇭"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44de6",
+    "code": "co",
+    "name": "Colombia",
+    "flag": "🇨🇴"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44de7",
+    "code": "cr",
+    "name": "Costa Rica",
+    "flag": "🇨🇷"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44de8",
+    "code": "de",
+    "name": "Germany",
+    "flag": "🇩🇪"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44de9",
+    "code": "dk",
+    "name": "Denmark",
+    "flag": "🇩🇰"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44dea",
+    "code": "eg",
+    "name": "Egypt",
+    "flag": "🇪🇬"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44deb",
+    "code": "es",
+    "name": "Spain",
+    "flag": "🇪🇸"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44dec",
+    "code": "fr",
+    "name": "France",
+    "flag": "🇫🇷"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44ded",
+    "code": "hr",
+    "name": "Croatia",
+    "flag": "🇭🇷"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44dee",
+    "code": "ir",
+    "name": "Iran",
+    "flag": "🇮🇷"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44def",
+    "code": "is",
+    "name": "Iceland",
+    "flag": "🇮🇸"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44df0",
+    "code": "jp",
+    "name": "Japan",
+    "flag": "🇯🇵"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44df1",
+    "code": "kr",
+    "name": "Korea Republic",
+    "flag": "🇰🇷"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44df2",
+    "code": "ma",
+    "name": "Morocco",
+    "flag": "🇲🇦"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44df3",
+    "code": "mx",
+    "name": "Mexico",
+    "flag": "🇲🇽"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44df4",
+    "code": "nd",
+    "name": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44df5",
+    "code": "ng",
+    "name": "Nigeria",
+    "flag": "🇳🇬"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44df6",
+    "code": "pa",
+    "name": "Panama",
+    "flag": "🇵🇦"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44df7",
+    "code": "pe",
+    "name": "Peru",
+    "flag": "🇵🇪"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44df8",
+    "code": "pl",
+    "name": "Poland",
+    "flag": "🇵🇱"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44df9",
+    "code": "pt",
+    "name": "Portugal",
+    "flag": "🇵🇹"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44dfa",
+    "code": "rs",
+    "name": "Serbia",
+    "flag": "🇷🇸"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44dfb",
+    "code": "ru",
+    "name": "Russia",
+    "flag": "🇷🇺"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44dfc",
+    "code": "sa",
+    "name": "Saudi Arabia",
+    "flag": "🇸🇦"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44dfd",
+    "code": "se",
+    "name": "Sweden",
+    "flag": "🇸🇪"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44dfe",
+    "code": "sn",
+    "name": "Senegal",
+    "flag": "🇸🇳"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44dff",
+    "code": "tn",
+    "name": "Tunisia",
+    "flag": "🇹🇳"
+  },
+  {
+    "_id": "5efe9f255734e5573cc44e00",
+    "code": "uy",
+    "name": "Uruguay",
+    "flag": "🇺🇾"
+  }
+]
